@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/Problems/Robot control/out/
+/Problems/Robot control/out/production/classes/
